@@ -1,0 +1,28 @@
+h1 {
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+}
+h2, h3 {
+    font-size: 32px;  
+    color: black;
+}
+
+.styledFont {
+    font-size: 18px;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+          
+img {
+    border-style: solid;
+    border-color: orange;
+    border-width: 20px;
+}
+
+#titlebox {
+    width: 300px;
+    height: 150px;
+    background-color: green;
+    }
+
